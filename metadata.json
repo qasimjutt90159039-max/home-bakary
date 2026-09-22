@@ -1,0 +1,6 @@
+{
+  "name": "Home Bakery Kitchen Al Jada",
+  "description": "Premium artisan bakery kitchen in Arada by Al Jada, Muwaileh Commercial, Sharjah. Fresh cakes, pastries, cupcakes, breads, and custom artisan celebrations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
